@@ -11,6 +11,7 @@ int main()
 	// static array
 	int ai[3] = { 1, 2, 3 };
 	std::cout << "Hello!\n";
+	std::cout << "Hello!\n";
 	// square bracket syntax for accessing array element
 	int j = ai[2];
 
